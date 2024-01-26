@@ -1,3 +1,3 @@
 # ConsoleCalculatorForKata
 
-Задание для поступления в KataAcademy.
+Задание для поступления в KataAcademy
